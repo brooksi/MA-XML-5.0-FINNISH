@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Aloitussivu</string>
   <string name="accessibility_button_addbookmark">Kirjanmerkit</string>
@@ -437,7 +437,7 @@
   <string name="pref_link_prefetch_summary">Salli selaimen ladata etukäteen taustalla linkitettyjä verkkosivuja</string>
   <string name="pref_link_prefetch_title">Verkkosivu latautuu etukäteen</string>
   <string name="pref_link_prefetch_value_never_summary">Älä koskaan salli selaimen ladata etukäteen taustalla linkitettyjä verkkosivuja</string>
-  <string name="pref_min_font_size">Vähimmäiskirjasinkoko</string>
+  <string name="pref_min_font_size">Kirjasimen vähimmäiskoko</string>
   <string name="pref_min_font_size_value" formatted="false">%d pt</string>
   <string name="pref_privacy_clear_cache">Tyhjennä välimuisti</string>
   <string name="pref_privacy_clear_cache_dlg">Poistetaanko paikallisesti välimuistisisältö ja tietokannat?</string>

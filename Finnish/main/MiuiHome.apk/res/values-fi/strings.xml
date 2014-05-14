@@ -61,7 +61,7 @@
   <string name="free_style_enter_tip">"Liu'uta alas kahdella sormella siirtyäksesi MiSpace: een"</string>
   <string name="free_style_exit_tip">"Liu'uta ylös kahdella sormella poistuaksesi MiSpace: sta"</string>
   <string name="free_style_londing_text">Valmistellaan MiSpacea...</string>
-  <string name="gadget_clear_button_label">Task Cleaner</string>
+  <string name="gadget_clear_button_label">Puhdistaja</string>
   <string name="gadget_clock_12_label">Kello 2x1</string>
   <string name="gadget_clock_22_label">Kello 2x2</string>
   <string name="gadget_clock_24_label">Kello 4x2</string>
@@ -205,7 +205,7 @@
   <string name="status_bar_toggle_auto_brightness">Autom. Kirkkaus</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Kirkkaus</string>
-  <string name="status_bar_toggle_data">Data</string>
+  <string name="status_bar_toggle_data">Mobiilidata</string>
   <string name="status_bar_toggle_divider">Lisää</string>
   <string name="status_bar_toggle_drive_mode">Ajotila</string>
   <string name="status_bar_toggle_flight_mode">Lentokonetila</string>
@@ -222,7 +222,7 @@
   <string name="status_bar_toggle_reboot">Käynnistä uudelleen</string>
   <string name="status_bar_toggle_ring">Äänet</string>
   <string name="status_bar_toggle_ringtone">Soittoääni</string>
-  <string name="status_bar_toggle_rotate">Kääntyminen</string>
+  <string name="status_bar_toggle_rotate">Näytön kääntyminen</string>
   <string name="status_bar_toggle_screen_button">Napit</string>
   <string name="status_bar_toggle_screenshot">Ota Kuvankaappaus</string>
   <string name="status_bar_toggle_shutdown">Sammuta</string>
@@ -231,9 +231,9 @@
   <string name="status_bar_toggle_sync_manual">Manuaalinen Synkronointi</string>
   <string name="status_bar_toggle_syncing">Synkronoidaan</string>
   <string name="status_bar_toggle_torch">Taskulamppu</string>
-  <string name="status_bar_toggle_vibrate">Tärinä</string>
+  <string name="status_bar_toggle_vibrate">Värinä</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi tukiasema</string>
   <string name="title_select_live_folder">Valitse kansio</string>
   <string name="title_select_shortcut">Valitse pikakuvake</string>
   <string name="toggle_select_title">Valitse nappi</string>
